@@ -31,7 +31,7 @@ decorator==4.3.0
 defer==1.0.6
 descartes==1.1.0
 distro-info===0.18ubuntu0.18.04.1
-Django==2.1.11
+Django==2.2.13
 django-storages==1.7.1
 docutils==0.14
 docx-mailmerge==0.4.0
