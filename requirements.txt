@@ -15,7 +15,7 @@ botocore==1.8.48
 Brlapi==0.6.6
 bs4==0.0.1
 Cartopy==0.16.0
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 click-plugins==1.0.3
